@@ -45,7 +45,7 @@
         <br>React
       </td>
       <td align="center" width="90">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="icon" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="icon" width="55" height="55" />
         <br>Bootstrap
       </td>
       <td align="center" width="90"> 
@@ -53,19 +53,19 @@
         <br>Git
       </td>
       <td align="center" width="90">
-        <img width="65" height="65" alt="MongoDB" src="https://github.com/user-attachments/assets/b9f712ed-ac31-45c6-a928-3047e9914aa6" />
+        <img width="55" height="55" alt="MongoDB" src="https://github.com/user-attachments/assets/b9f712ed-ac31-45c6-a928-3047e9914aa6" />
         <br>MongoDB
       </td>
       <td align="center" width="90">
-        <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="65" height="65" alt="Next.js" />
+        <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" width="60" height="60" alt="Next.js" />
         <br>Next.js
       </td>       
       <td align="center" width="90">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="60" height="60" alt="Node.js" />
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55" height="55" alt="Node.js" />
         <br>Node.js
       </td>    
       <td align="center" width="90">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
         <br>Postman
       </td> 
     </tr> 
