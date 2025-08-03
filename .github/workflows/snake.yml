@@ -11,8 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - uses: Platane/snk@v2
         with:
           github_user_name: ParhamPK03
           gif_out_path: dist/github-contribution-grid-snake.gif
